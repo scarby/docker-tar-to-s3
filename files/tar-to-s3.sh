@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -x
 set -e
 name="${product}-$(date '+%y-%m-%d').tar"
